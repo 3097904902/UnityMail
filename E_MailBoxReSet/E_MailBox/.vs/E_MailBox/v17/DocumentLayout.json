@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\E_MailBoxReSet\\E_MailBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|e:\\e_mailboxreset\\e_mailbox\\assets\\scripts\\ui\\recyinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\recyinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|E:\\E_MailBoxReSet\\E_MailBox\\assets\\scripts\\model\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\model\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|E:\\E_MailBoxReSet\\E_MailBox\\assets\\scripts\\ui\\mailitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mailitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|E:\\E_MailBoxReSet\\E_MailBox\\assets\\scripts\\model\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\model\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|E:\\E_MailBoxReSet\\E_MailBox\\assets\\scripts\\ui\\midpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CD3C60-8A2E-78F7-626D-9B5505A068A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\midpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailBox.cs",
+              "DocumentMoniker": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\Model\\MailBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\MailBox.cs",
+              "ToolTip": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\Model\\MailBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\MailBox.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:44:14.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MidPanel.cs",
+              "DocumentMoniker": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\MidPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MidPanel.cs",
+              "ToolTip": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\MidPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MidPanel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:45:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecyingList.cs",
+              "DocumentMoniker": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\RecyingList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RecyingList.cs",
+              "ToolTip": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\RecyingList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\RecyingList.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:31:06.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailItem.cs",
+              "DocumentMoniker": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\MailItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MailItem.cs",
+              "ToolTip": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\UI\\MailItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MailItem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:33.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailData.cs",
+              "DocumentMoniker": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\Model\\MailData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\MailData.cs",
+              "ToolTip": "E:\\E_MailBoxReSet\\E_MailBox\\Assets\\Scripts\\Model\\MailData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\MailData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:50:34.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
